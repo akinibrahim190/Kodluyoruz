@@ -1,2 +1,2 @@
 # Kodluyoruz
-Kodluyoruz Sitesinde ki frontend eğitiminde yapılana projelerin yer aldığı repository.
+Kodluyoruz Sitesinde ki frontend eğitiminde yapılan projelerin yer aldığı repository.
